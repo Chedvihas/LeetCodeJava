@@ -6,3 +6,14 @@ To https://github.com/Chedvihas/LeetCodeJava.git
    478ad3c..03e85ad  main -> main
 branch 'main' set up to track 'origin/main'.
 Everything up-to-date
+[main e0324d8]  Added :  cronlog.log src/BubbleSort.java src/InsertionSort.java src/numPairsLessThanTarget.java out/production/SER222/InsertionSort.class out/production/SER222/numPairsLessThanTarget.class | Updated : cronlog.log
+ 6 files changed, 88 insertions(+), 2 deletions(-)
+ create mode 100644 out/production/SER222/InsertionSort.class
+ create mode 100644 out/production/SER222/numPairsLessThanTarget.class
+ delete mode 100644 src/BubbleSort.java
+ create mode 100644 src/InsertionSort.java
+ create mode 100644 src/numPairsLessThanTarget.java
+To https://github.com/Chedvihas/LeetCodeJava.git
+   03e85ad..e0324d8  main -> main
+branch 'main' set up to track 'origin/main'.
+Everything up-to-date
