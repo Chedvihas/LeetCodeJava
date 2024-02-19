@@ -32,3 +32,5 @@ public class numPairsLessThanTarget {
         System.out.println(solution.numPairsLessThanTarget(nums, target)); // Output: 3
     }
 }
+
+//updated
