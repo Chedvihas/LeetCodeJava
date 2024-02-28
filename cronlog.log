@@ -176,3 +176,9 @@ To https://github.com/Chedvihas/LeetCodeJava.git
    2fa318c..c496e80  main -> main
 branch 'main' set up to track 'origin/main'.
 Everything up-to-date
+[main 0bfadd3]  Added :  cronlog.log src/MaxSumDivisibleByThree.java src/MaximumUnitsOnTruck.java | Updated : cronlog.log
+ 3 files changed, 88 insertions(+)
+ create mode 100644 src/MaxSumDivisibleByThree.java
+ create mode 100644 src/MaximumUnitsOnTruck.java
+fatal: unable to access 'https://github.com/Chedvihas/LeetCodeJava.git/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Chedvihas/LeetCodeJava.git/': Could not resolve host: github.com
