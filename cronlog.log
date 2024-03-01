@@ -182,3 +182,11 @@ Everything up-to-date
  create mode 100644 src/MaximumUnitsOnTruck.java
 fatal: unable to access 'https://github.com/Chedvihas/LeetCodeJava.git/': Could not resolve host: github.com
 fatal: unable to access 'https://github.com/Chedvihas/LeetCodeJava.git/': Could not resolve host: github.com
+[main de7eaea]  Added :  cronlog.log src/JumpGame.java src/ThreeSum.java | Updated : cronlog.log
+ 3 files changed, 97 insertions(+)
+ create mode 100644 src/JumpGame.java
+ create mode 100644 src/ThreeSum.java
+To https://github.com/Chedvihas/LeetCodeJava.git
+   c496e80..de7eaea  main -> main
+branch 'main' set up to track 'origin/main'.
+Everything up-to-date
