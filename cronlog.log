@@ -190,3 +190,11 @@ To https://github.com/Chedvihas/LeetCodeJava.git
    c496e80..de7eaea  main -> main
 branch 'main' set up to track 'origin/main'.
 Everything up-to-date
+[main 2fe5941]  Added :  cronlog.log src/MaxOddBinaryNumber.java src/MyQueueExample.java | Updated : cronlog.log
+ 3 files changed, 88 insertions(+)
+ create mode 100644 src/MaxOddBinaryNumber.java
+ create mode 100644 src/MyQueueExample.java
+To https://github.com/Chedvihas/LeetCodeJava.git
+   de7eaea..2fe5941  main -> main
+branch 'main' set up to track 'origin/main'.
+Everything up-to-date
