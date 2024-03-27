@@ -1,15 +1,15 @@
-class Node {
+class NodeLL {
     int data;
-    Node next;
+    NodeLL next;
 
-    public Node(int data) {
+    public NodeLL(int data) {
         this.data = data;
         this.next = null;
     }
 }
 
 public class SinglyLinkedList {
-    private Node head;
+    private NodeLL head;
 
     public SinglyLinkedList() {
         this.head = null;
@@ -17,44 +17,44 @@ public class SinglyLinkedList {
 
     // Insert at the beginning
     public void insertAtBeginning(int data) {
-        Node newNode = new Node(data);
-        newNode.next = head;
-        head = newNode;
+        NodeLL newNodeLL = new NodeLL(data);
+        newNodeLL.next = head;
+        head = newNodeLL;
     }
 
     // Insert at the end
     public void insertAtEnd(int data) {
-        Node newNode = new Node(data);
+        NodeLL newNodeLL = new NodeLL(data);
 
         if (head == null) {
-            head = newNode;
+            head = newNodeLL;
             return;
         }
 
-        Node last = head;
+        NodeLL last = head;
         while (last.next != null) {
             last = last.next;
         }
 
-        last.next = newNode;
+        last.next = newNodeLL;
     }
 
     // Insert after a specific node
-    public void insertAfter(Node prevNode, int data) {
-        if (prevNode == null) {
+    public void insertAfter(NodeLL prevNodeLL, int data) {
+        if (prevNodeLL == null) {
             System.out.println("Previous node cannot be null");
             return;
         }
 
-        Node newNode = new Node(data);
-        newNode.next = prevNode.next;
-        prevNode.next = newNode;
+        NodeLL newNodeLL = new NodeLL(data);
+        newNodeLL.next = prevNodeLL.next;
+        prevNodeLL.next = newNodeLL;
     }
 
     // Delete by value
     public void deleteByValue(int data) {
-        Node current = head;
-        Node prev = null;
+        NodeLL current = head;
+        NodeLL prev = null;
 
         // If the value to be deleted is at the head
         if (current != null && current.data == data) {
@@ -80,7 +80,7 @@ public class SinglyLinkedList {
 
     // Traverse and print the linked list
     public void printList() {
-        Node current = head;
+        NodeLL current = head;
 
         System.out.print("Linked List: ");
         while (current != null) {

@@ -3,12 +3,12 @@
 
 
 public class ReverseLL {
-    Node head;
+    NodeLL head;
 
     public void reverse() {
-        Node current = head;
-        Node prev = null;
-        Node next = null;
+        NodeLL current = head;
+        NodeLL prev = null;
+        NodeLL next = null;
 
         while (current != null) {
             next = current.next;
@@ -21,7 +21,7 @@ public class ReverseLL {
     }
 
     public void printList() {
-        Node temp = head;
+        NodeLL temp = head;
         while (temp != null) {
             System.out.print(temp.data + " ");
             temp = temp.next;
@@ -31,10 +31,10 @@ public class ReverseLL {
 
     public static void main(String[] args) {
         ReverseLL list = new ReverseLL();
-        list.head = new Node(1);
-        list.head.next = new Node(2);
-        list.head.next.next = new Node(3);
-        list.head.next.next.next = new Node(4);
+        list.head = new NodeLL(1);
+        list.head.next = new NodeLL(2);
+        list.head.next.next = new NodeLL(3);
+        list.head.next.next.next = new NodeLL(4);
 
         System.out.println("Original linked list:");
         list.printList();
