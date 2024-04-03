@@ -295,3 +295,12 @@ To https://github.com/Chedvihas/LeetCodeJava.git
    ac820a2..7774402  main -> main
 branch 'main' set up to track 'origin/main'.
 Everything up-to-date
+[main ea58b8e]  Added :  cronlog.log src/DivisionHash.java src/FoldingHash.java src/MultiplicationHash.java | Updated : cronlog.log
+ 4 files changed, 60 insertions(+)
+ create mode 100644 src/DivisionHash.java
+ create mode 100644 src/FoldingHash.java
+ create mode 100644 src/MultiplicationHash.java
+To https://github.com/Chedvihas/LeetCodeJava.git
+   7774402..ea58b8e  main -> main
+branch 'main' set up to track 'origin/main'.
+Everything up-to-date
