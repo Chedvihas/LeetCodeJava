@@ -304,3 +304,7 @@ To https://github.com/Chedvihas/LeetCodeJava.git
    7774402..ea58b8e  main -> main
 branch 'main' set up to track 'origin/main'.
 Everything up-to-date
+[main 44c508c]  Added :  cronlog.log | Updated : cronlog.log
+ 1 file changed, 9 insertions(+)
+fatal: unable to access 'https://github.com/Chedvihas/LeetCodeJava.git/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Chedvihas/LeetCodeJava.git/': Could not resolve host: github.com
