@@ -584,3 +584,9 @@ To https://github.com/Chedvihas/LeetCodeJava.git
    fa933b2..df1c131  main -> main
 branch 'main' set up to track 'origin/main'.
 Everything up-to-date
+[main f6822e4]  Added :  cronlog.log src/BinaryTreeTest.java | Updated : cronlog.logsrc/BinaryTreeTest.java
+ 2 files changed, 6 insertions(+), 44 deletions(-)
+To https://github.com/Chedvihas/LeetCodeJava.git
+   df1c131..f6822e4  main -> main
+branch 'main' set up to track 'origin/main'.
+Everything up-to-date
