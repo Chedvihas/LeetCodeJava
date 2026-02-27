@@ -1834,3 +1834,7 @@ To https://github.com/Chedvihas/LeetCodeJava.git
 branch 'main' set up to track 'origin/main'.
 failed to store: -61
 Everything up-to-date
+[main b3f99cd]  Added :  cronlog.log | Updated : cronlog.log
+ 1 file changed, 8 insertions(+)
+fatal: unable to access 'https://github.com/Chedvihas/LeetCodeJava.git/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Chedvihas/LeetCodeJava.git/': Could not resolve host: github.com
